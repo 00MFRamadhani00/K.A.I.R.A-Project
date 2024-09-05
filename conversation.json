@@ -1,0 +1,16 @@
+{
+    "history": [
+        {
+            "role": "user",
+            "content": "Fadhil said Halo halo, siapa disana?"
+        },
+        {
+            "role": "assistant",
+            "content": "KAIRA di sini! \ud83e\udd16"
+        },
+        {
+            "role": "user",
+            "content": "Fadhil said Siapa itu Kaira? Aku ga pernah liat"
+        }
+    ]
+}
